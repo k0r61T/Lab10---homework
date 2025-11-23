@@ -1,0 +1,5 @@
+﻿  Variant 6.c
+C:\Users\Ярослав\Desktop\Новая папка\DZ Lab10\DZ Lab10\Variant 6.c(19,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\DZ Lab10\DZ Lab10\Variant 6.c(24,35): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\DZ Lab10\DZ Lab10\Variant 6.c(25,36): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  DZ Lab10.vcxproj -> C:\Users\Ярослав\Desktop\Новая папка\DZ Lab10\x64\Debug\DZ Lab10.exe
