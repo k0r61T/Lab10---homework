@@ -10,5 +10,5 @@
 3) нарисовать фигуру.
 
 <h2>Вывод в консоли:</h2>
-<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/6345ba66-9e68-4652-b4c2-c3d37c343ac3" />
-<img width="1919" height="1116" alt="image" src="https://github.com/user-attachments/assets/606305d8-38f4-4920-8d4b-1186592e325a" />
+<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/fc0c9817-99bf-4ca8-8901-3e65bf870b19" />
+<img width="1919" height="1116" alt="image" src="https://github.com/user-attachments/assets/99b17cf9-6c39-4760-9174-3c4783940d0e" />
